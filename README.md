@@ -12,6 +12,9 @@ Kurulum:
 
 3 Oluşan, dosya-bulucu adlı çalıştırılabilir dosyayı çalıştırınız.
 
-![resim](https://github.com/user-attachments/assets/a6fcb722-40b1-4e60-8b8f-51bac79630c6)
+![resim](https://github.com/user-attachments/assets/a6fcb722-40b1-4e60-8b8f-51bac79630c6) ![resim](https://github.com/user-attachments/assets/ca914fd5-ff6f-4415-9937-88a32fe18a7d)
+
+
+
 
 
